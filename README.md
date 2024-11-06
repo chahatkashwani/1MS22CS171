@@ -12,6 +12,8 @@ Proficient in Python Programming
  Data structures
  Data analysis with r
 
+ 
+
 **EDUCATION-**
 RAMAIAH INSTITUTE OF TECHOLOGY
 Bachelor of Engineering
